@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on "Perplexity" clone & "DoctorDiagnosis.ai".<br>I'm collaborating/contributing on open source projects.<br>I'm currently learning built a long lasting viable Business.<br>Ask me about Gen_AI & AI_Agent/Agentic_AI Systems.<br>
+I'm currently working on "Perplexity" clone & "DoctorDiagnosis.ai".<br>I'm collaborating/contributing on open source projects.<br>I'm currently learning to built a long lasting viable Business.<br>Ask me about Gen_AI & AI_Agent/Agentic_AI Systems.<br>
 
 
 ## 🌐 Socials:
